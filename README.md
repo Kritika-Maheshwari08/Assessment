@@ -41,7 +41,7 @@ A modern, responsive e-commerce application built with Next.js 14, featuring a c
 
 ## Deployment
 
-Deploy instantly on [Vercel](https://assessment-lmuoipr9l-kritika052003-9097s-projects.vercel.app/) by connecting your GitHub repository.
+Deployed on [Vercel](https://assessment-lmuoipr9l-kritika052003-9097s-projects.vercel.app/).
 
 ## Project Structure
 
