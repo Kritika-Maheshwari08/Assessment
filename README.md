@@ -47,9 +47,13 @@ Deploy instantly on [Vercel](https://vercel.com) by connecting your GitHub repos
 
 
 ├── app/                 # Next.js App Router
+
 ├── components/          # React components
+
 ├── lib/                # Utilities and mock data
+
 ├── public/             # Static assets
+
 └── hooks/              # Custom hooks
 
 
